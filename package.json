@@ -1,0 +1,25 @@
+{
+  "name": "react-native-proximity",
+  "version": "3.0.0",
+  "description": "Detect proximity on iOS and Android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/3posol/react-native-proximity.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "native",
+    "proximity"
+  ],
+  "author": "3POS <3po.solutions.llc@gmail.com> (https://github.com/3posol)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3posol/react-native-proximity/issues"
+  },
+  "homepage": "https://github.com/3posol/react-native-proximity"
+}
